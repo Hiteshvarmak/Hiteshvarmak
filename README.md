@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hitesh Varma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshvarmak&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshvarmak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiteshvarmak" alt="hiteshvarmak" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hiteshvarmak" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshvarmak?logo=twitter&style=for-the-badge" alt="hiteshvarmak" /></a> </p># 👋 Hey there, I'm Hitesh Varma  
+<p align="left"> <a href="https://twitter.com/hiteshvarmak" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshvarmak?logo=twitter&style=for-the-badge" alt="hiteshvarmak" /></a> </p> 👋 Hey there, I'm Hitesh Varma  
 
 🎓 Final-year B.Tech Data Science Student at **VNR VJIET**  
 🏅 Diploma Gold Medalist | AI & ML Enthusiast  
@@ -33,7 +30,7 @@
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 🐦 [Twitter](https://twitter.com/)  
-- 📧 hiteshvarma@example.com  
+- 📧 hiteshvarmakarukuri@gmail.com  
 
 ---
 
