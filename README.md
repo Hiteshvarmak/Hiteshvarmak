@@ -5,7 +5,40 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiteshvarmak" alt="hiteshvarmak" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hiteshvarmak" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshvarmak?logo=twitter&style=for-the-badge" alt="hiteshvarmak" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hiteshvarmak" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshvarmak?logo=twitter&style=for-the-badge" alt="hiteshvarmak" /></a> </p># 👋 Hey there, I'm Hitesh Varma  
+
+🎓 Final-year B.Tech Data Science Student at **VNR VJIET**  
+🏅 Diploma Gold Medalist | AI & ML Enthusiast  
+🚀 Built projects in **Healthcare** and **Agriculture** (Doctor-Patient Portal, Crop Yield Prediction)  
+💡 President @ VJ Data Questers | Mentoring juniors in Python, ML & LLMs  
+🎯 Goal: Work at the intersection of **AI + Social Impact** & publish research  
+
+---
+
+## 🌟 A Little About Me
+- 🌱 Always curious about **AI/ML & Data Science**  
+- 💻 Love building real-world projects that create an impact  
+- 🎤 Occasionally sing 🎶 & host events  
+- 🤝 Open to collaborations, hackathons, and research work  
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** Python, Java, SQL  
+- **ML/AI:** Scikit-learn, TensorFlow, PyTorch  
+- **Tools:** Power BI, Git, MongoDB  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 🐦 [Twitter](https://twitter.com/)  
+- 📧 hiteshvarma@example.com  
+
+---
+
+⭐️ *"Curiosity is my fuel, and Impact is my destination."* 🚀
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
