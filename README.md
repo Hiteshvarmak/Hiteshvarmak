@@ -26,8 +26,7 @@ Computer Vision, Generative AI</strong> and Software Development.
   and building solutions that have a real-world purpose.
   </p>
 <br>
-</div>
-<br> 
+</div> 
 <h2>🔭 Currently Exploring</h2> 
 <p align="center"> 
     <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge" /> 
