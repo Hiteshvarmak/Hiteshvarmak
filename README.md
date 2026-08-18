@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hey, I'm Hitesh 👋</h1>
+  <h1>Hey, I'm Hitesh Varma👋</h1>
 
   <h3>Data Science × AI × Creativity</h3>
 
