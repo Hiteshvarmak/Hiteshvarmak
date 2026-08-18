@@ -16,14 +16,6 @@
 
 <br>
 
----
-
-<h2>🧠 About Me</h2>
-
-<p>
-I'm a <strong>CSE (Data Science) student</strong> who enjoys turning ideas into technology.
-</p>
-
 <p>
 I'm interested in <strong>Artificial Intelligence, Machine Learning, Data Science,
 Computer Vision, Generative AI</strong> and Software Development.
