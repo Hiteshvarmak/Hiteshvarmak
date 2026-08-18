@@ -1,2 +1,44 @@
-<h1 align="center">Hi 👋, I'm Hitesh Varma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+
+  <h1>Hey, I'm Hitesh 👋</h1>
+
+  <h3>Data Science × AI × Creativity</h3>
+
+  <p>
+    CSE (Data Science) Student • AI/ML Enthusiast • Developer • Creative Thinker
+  </p>
+
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Learning+%7C+Building+%7C+Experimenting;Turning+Ideas+into+Technology;Exploring+AI+%26+Data+Science;Always+Curious%2C+Always+Building" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+---
+
+<h2>🧠 About Me</h2>
+
+<p>
+I'm a <strong>CSE (Data Science) student</strong> who enjoys turning ideas into technology.
+</p>
+
+<p>
+I'm interested in <strong>Artificial Intelligence, Machine Learning, Data Science,
+Computer Vision, Generative AI</strong> and Software Development.
+</p>
+
+<p>
+I enjoy experimenting with new ideas, understanding how things work,
+and building solutions that have a real-world purpose.
+</p>
+
+<br>
+
+<h2>⚡ My Mindset</h2>
+
+<div align="center">
+
+```text
+Learn → Build → Experiment → Break → Improve → Repeat
