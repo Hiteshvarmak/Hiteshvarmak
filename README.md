@@ -33,14 +33,5 @@ Computer Vision, Generative AI</strong> and Software Development.
 I enjoy experimenting with new ideas, understanding how things work,
 and building solutions that have a real-world purpose.
 </p>
-
 <br>
-
-<h2>⚡ My Mindset</h2>
-
-<div align="center">
-
-```text
-Learn → Build → Experiment → Break → Improve → Repeat
-```
 </div> <br> <h2>🔭 Currently Exploring</h2> <p align="center"> <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Science-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge" /> </p> <br><br> <h2>🛠️ Tech I Work With</h2>
